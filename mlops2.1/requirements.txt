@@ -1,0 +1,6 @@
+#Настройка удаленного ssh-сервера
+pandas
+scikit-learn
+catboost
+pyyaml
+dvc[ssh]
