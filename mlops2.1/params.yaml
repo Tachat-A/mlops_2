@@ -1,0 +1,4 @@
+train:
+  iterations: 2000
+  depth: 4
+  random_seed: 16
